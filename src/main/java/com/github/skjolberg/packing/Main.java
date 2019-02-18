@@ -10,7 +10,7 @@ public class Main {
 		boolean rotate3d = true; // whether the products can be rotated in 6 positions
 
 		// initialization
-		// nambahin tipe kendaraan beserta
+		// nambahin tipe kendaraan beserta ukurannya
 		List<Container> containers = new ArrayList<Container>();
 		containers.add(new Container("Fuso", 10, 10, 3, 100));
 		containers.add(new Container("Double", 20, 20, 6, 200));
